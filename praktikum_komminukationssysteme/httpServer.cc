@@ -129,7 +129,7 @@ string parseGET(string message) {
         EV << "Unbekannter Fehler im HTTP-Request" << '\n';
         return CODE_400;
     }
-}
+}// geaendert am 10.12.2016
 };
 
 //#############################################################################
